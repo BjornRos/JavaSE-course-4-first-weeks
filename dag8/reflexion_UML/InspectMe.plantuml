@@ -1,0 +1,10 @@
+@startuml
+
+class InspectMe {
++int Ettan
+-String Tvåan
+~byte[] Trean
+~Add()
+}
+
+@enduml
